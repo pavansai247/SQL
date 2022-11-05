@@ -1,0 +1,6 @@
+dept_id,dept_name,location,manager_id,elocation_id
+22,admistration,uk,1,218
+24,production,india,2,212
+34,development,india,4,212
+44,communication,usa,5,220
+54,maintenance,usa,3,220

@@ -1,0 +1,11 @@
+order_date,order_no,c_id,c_name,s_code,p_name,qty,price
+24-07-2016,HM06,9212,Jessica,11,pencil,3,30
+19-10-2016,HM09,3921,Mukesh,17,biscuits,10,600
+30-10-2016,HM10,9875,Stephen,2,cornoto,10,500
+12-04-2018,HM03,1212,Oliver,20,kiwi,3,420
+02-05-2018,HM05,1910,Mohan,20,kiwi,2,280
+20-09-2018,HM08,5334,Chirsty,16,chocolate,2,50
+11-01-2019,HM07,1246,Vignesh,19,apple,5,600
+15-03-2019,HM01,1910,Mohan,5,mayanoise,4,360
+10-02-2021,HM04,1111,Nisha,25,conditioner,5,1000
+12-02-2021,HM02,2123,Biyush,3,Pen,2,20

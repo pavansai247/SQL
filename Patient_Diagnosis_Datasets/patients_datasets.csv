@@ -1,0 +1,9 @@
+date,pid,p_name,age,weight,gender,location,phone_no,disease,doctor_name,doctor_id
+15-06-2019,AP2021,Sarath,67,76,Male,chennai,5462829,Cardiac,Mohan,21
+13-02-2019,AP2022,John,62,80,Male,banglore,1234731,Cancer,Suraj,22
+08-01-2018,AP2023,Henry,43,65,Male,Kerala,9028320,Liver,Mehta,23
+04-02-2020,AP2024,Carl,56,72,Female,Mumbai,9293829,Asthma,Karthik,24
+15-09-2017,AP2025,Shikar,55,71,Male,Delhi,7821281,Cardiac,Mohan,21
+22-07-2018,AP2026,Piysuh,47,59,Male,Haryana,8912819,Cancer,Suraj,22
+25-03-2017,AP2027,Stephen,69,55,Male,Gujarat,8888211,Liver,Mehta,23
+22-04-2019,AP2028,Aaron,75,53,Male,Banglore,9012192,Asthma,Karthik,24
