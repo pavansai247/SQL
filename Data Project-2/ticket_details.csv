@@ -1,0 +1,51 @@
+p_date,customer_id,aircraft_id,class_id,no_of_tickets,a_code,Price_per_ticket,brand
+26-12-2018,27,767-301ER,Economy,1,DAL,130,Emirates
+02-02-2020,22,ERJ142,Economy Plus,1,AGB,220,Jet Airways
+03-03-2020,21,CRJ900,Bussiness,1,BOH,490,Bristish Airways
+04-04-2020,4,767-301ER,First Class,1,AGB,390,Emirates
+05-05-2020,5,ERJ142,Economy,1,CTM,120,Jet Airways
+07-07-2020,7,767-301ER,Bussiness,1,BFS,430,Emirates
+08-08-2020,8,A321,Economy Plus,1,DAL,275,Qatar Airways
+09-09-2020,9,767-301ER,First Class,1,BOH,380,Emirates
+10-10-2020,10,A321,Economy,1,MCO,135,Qatar Airways
+11-11-2020,11,767-301ER,Bussiness,1,AGB,465,Emirates
+12-12-2020,19,CRJ900,Economy Plus,1,DEN,225,Bristish Airways
+01-01-2019,13,A321,First Class,1,YVR,395,Qatar Airways
+02-02-2019,14,ERJ142,Economy,1,CTM,120,Jet Airways
+03-03-2019,25,767-301ER,Bussiness,1,BHX,499,Emirates
+04-04-2019,16,CRJ900,First Class,1,YVR,395,Bristish Airways
+03-05-2019,17,A321,Economy Plus,1,BFS,250,Qatar Airways
+06-06-2019,18,767-301ER,Economy,1,YVR,190,Emirates
+07-07-2019,24,A321,Bussiness,1,CTM,480,Qatar Airways
+09-08-2019,20,CRJ900,First Class,1,MCO,365,Bristish Airways
+21-09-2019,25,767-301ER,Economy,1,BOH,150,Emirates
+22-10-2019,29,A321,Bussiness,1,PEK,410,Qatar Airways
+23-11-2019,1,ERJ142,Economy Plus,1,BFS,250,Jet Airways
+24-12-2019,14,767-301ER,Economy,1,BHX,170,Emirates
+25-01-2019,2,A321,Bussiness,1,YVR,505,Qatar Airways
+01-01-2018,9,CRJ900,First Class,1,AGB,390,British Airways
+01-02-2018,19,767-301ER,Economy,1,AGB,100,Emirates
+01-03-2018,18,767-301ER,First Class,1,BFS,375,Emirates
+01-04-2018,29,ERJ142,Bussiness,1,EME,510,Jet Airways
+01-05-2018,8,A321,Economy,1,YVR,190,Qatar Airways
+01-06-2018,20,CRJ900,First Class,1,PEK,315,Bristish Airways
+01-07-2018,5,767-301ER,Bussiness,1,BFS,430,Emirates
+01-08-2018,11,ERJ142,Economy Plus,1,BHX,295,Jet Airways
+01-09-2018,2,767-301ER,Economy,1,DAL,130,Emirates
+01-10-2018,1,CRJ900,First Class,1,DEN,320,Bristish Airways
+01-11-2018,15,A321,Bussiness,1,BFS,430,Qatar Airways
+01-12-2018,28,ERJ142,Economy,1,BHX,170,Jet Airways
+19-12-2018,31,767-301ER,Economy,1,DAL,130,Emirates
+04-02-2020,32,ERJ142,Economy Plus,1,AGB,220,Jet Airways
+12-03-2020,33,CRJ900,Bussiness,1,BOH,490,Bristish Airways
+29-04-2020,4,767-301ER,First Class,1,AGB,390,Emirates
+30-05-2020,5,ERJ142,Economy,1,CTM,120,Jet Airways
+17-07-2020,49,767-301ER,Bussiness,1,BFS,430,Emirates
+12-08-2020,50,A321,Economy Plus,1,DAL,275,Qatar Airways
+05-09-2020,44,767-301ER,First Class,1,BOH,380,Emirates
+07-10-2020,46,A321,Economy,1,MCO,135,Qatar Airways
+08-11-2020,11,767-301ER,Bussiness,1,AGB,465,Emirates
+09-12-2020,47,CRJ900,Economy Plus,1,DEN,225,Bristish Airways
+11-01-2019,41,A321,First Class,1,YVR,395,Qatar Airways
+13-12-2020,19,CRJ900,Economy Plus,1,DEN,225,Bristish Airways
+15-01-2019,46,A321,First Class,1,YVR,395,Qatar Airways
