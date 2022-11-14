@@ -16,7 +16,7 @@ Repository containing portfolio of sql projects completed by me for academic,sel
  ## 1.ScienceQtech Employee Performance Mapping.
 
 
-  you find the maximum salary of the employees and ensure that all jobs are meeting the organization's profile standard. and also calculate bonuses to find extra cost for expenses. This will raise the overall performance of the organization by ensuring that all required employees receive training.
+  finding the maximum salary of the employees and ensure that all jobs are meeting the organization's profile standard. and also calculate bonuses to find extra cost for expenses. This will raise the overall performance of the organization by ensuring that all required employees receive training.
 
 
 ## 2.Air Cargo Analysis.
