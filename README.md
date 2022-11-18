@@ -11,7 +11,7 @@ Repository containing portfolio of sql projects completed by me for academic,sel
 
 ## Installation
 
-  https://dev.mysql.com/downloads/installer/  
+  SQL:-[Click here](https://dev.mysql.com/downloads/installer/)  
 ## Contents
  ## 1.ScienceQtech Employee Performance Mapping.
 
