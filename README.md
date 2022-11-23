@@ -26,6 +26,7 @@ Repository containing portfolio of sql projects completed by me for academic,sel
 ## Mini Projects 
 
 ## 1.Retail Mart Management.
+
 We designied  the database helps to easily evaluate and identify the performance of the shop to increase the daily sales.
 ## 2.School Ranking Analysis.
 We designied the database helps to easily retrieve thousands of student records.
