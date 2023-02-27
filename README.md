@@ -35,6 +35,7 @@ Created database design helps to retrieve, update, and modify the patient’s de
  Calculated the monthly payroll of each employee efficiently and retrieve the employees details based on certain criteria
 ## 🛠 Skills
 1.SQL
+2.Advanced SQL
 
 
 
